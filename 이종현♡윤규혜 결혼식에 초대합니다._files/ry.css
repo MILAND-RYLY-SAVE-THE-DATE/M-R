@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtosu Cursive Font</title>
+
+    <style>
+        @font-face {
+            font-family: 'Virtosu Cursive';
+            src: url('virtosu-cursive.ttf') format('truetype'); /* Adjust path */
+        }
+
+        .top_txt {
+            font-family: 'Virtosu Cursive', cursive;
+            font-size: 15px;
+        }
+
+        .ry{
+            font-family: 'Virtosu Cursive', cursive;
+            font-size: 15px;
+        }
+    </style>
+</head>
